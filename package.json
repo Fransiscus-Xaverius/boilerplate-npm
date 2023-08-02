@@ -11,5 +11,6 @@
 		"type": "git",
 		"url": "https://idontknow/todo.git"
 	},
-	"author": "Fransiscus Xaverius"
+	"author": "Fransiscus Xaverius",
+	"description": "A project that does something awesome"
 }
